@@ -1,0 +1,15 @@
+.d-inline-block {
+  margin-left: 50%;
+}
+.justify-content-end {
+  margin-right: 5%;
+}
+.navbar-text {
+  padding-top: 10 !important;
+}
+
+li {
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+}

@@ -1,0 +1,9 @@
+form {
+  display: block;
+  width: 30%;
+  margin: auto;
+}
+
+.register-link {
+  text-align: right;
+}
