@@ -3,6 +3,11 @@ form {
   width: 30%;
   margin: auto;
 }
+@media only screen and (max-width: 800px) {
+  form {
+    width: 80%;
+  }
+}
 
 .register-link {
   text-align: right;

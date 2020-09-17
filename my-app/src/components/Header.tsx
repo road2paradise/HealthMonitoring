@@ -28,6 +28,7 @@ function Header(Props: HeaderProps) {
             />
           </Link>
         </Navbar.Brand>
+        <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text>
             {userName === "null" ? (
