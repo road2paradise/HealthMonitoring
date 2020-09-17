@@ -17,10 +17,10 @@ Users are able to **create** their own profile, using a standard `userName`, `em
 Users are also able to sign in and have a worry-free experience knowing that their sensitive data is protected using `JSON Web Tokens`
 
 **Sign in**
-<img src="./my-app/public/signIn.png">
+<img src="./my-app/public/signIn.PNG">
 
 **Register**
-<img src="./my-app/public/registerMe.png">
+<img src="./my-app/public/registerMe.PNG">
 
 Users are also able to **create**, **read**, **update** , **delete** and all of their upcoming **appointments** on the UI as shown on the screenshots below.
 
@@ -30,13 +30,13 @@ Users are also able to **create**, **read**, **update** , **delete** and all of 
 <img src="./my-app/public/createAppointment.png">
 
 **Read (get) an existing appointment**
-<img src="./my-app/public/getAppointment.png">
+<img src="./my-app/public/getAppointment.PNG">
 
 **Update an existing appointment**
-<img src="./my-app/public/updateAppointment.png">
+<img src="./my-app/public/updateAppointment.PNG">
 
 **Delete an existing appointment**
-<img src="./my-app/public/deleteAppointment.png">
+<img src="./my-app/public/deleteAppointment.PNG">
 
 ## Advanced Features (Attempted)
 
@@ -53,11 +53,11 @@ Authentication is completed on the server-side. A token is sent via the server a
 
 An example of this in action is below, where the JWT is taken in as a cookie and sent through the authorization header. This is required when a user is trying to access their own dashboard which holds sensitive information about their treatment(s)
 
-<img src="./my-app/public/jwtExample.png">
+<img src="./my-app/public/jwtExample.PNG">
 
 - Relational Databases (See back-end Readme)
 - ResponsiveUI (Web + Mobile)
 
 My web-app is able to be viewed comfortably and has a responsive UI for switching between Web and Mobile interfaces. There is a hamburger stack for Navigation tools.
 
-<img src="./my-app/public/mobileResponsiveness.png" height="600px">
+<img src="./my-app/public/mobileResponsiveness.PNG" height="600px">
