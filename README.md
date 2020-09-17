@@ -6,7 +6,7 @@
 
 Created by - Kenny Nguyen for 2020 MSA - Phase 2 Assignment. This is the **front-end** repo. For the **back-end repo please see [HealthMonitorAPI](https://github.com/road2paradise/HealthMonitorAPI)**
 
-This web-application is hosted on Microsoft Azure and can be located at the following [Link](https://)
+This web-application is hosted on Microsoft Azure and can be located at the following [Link](https://https://healthmonitormsa2020.azurewebsites.net/)
 
 ## Basic Overview
 
